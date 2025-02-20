@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/family-replace-ricw9.figma-tokens-m7dz6xag",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve Xr7UVd9Wv0p4rGVDhiLg --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
